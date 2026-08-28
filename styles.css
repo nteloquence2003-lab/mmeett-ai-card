@@ -141,6 +141,14 @@ img {
   border: 1.5px solid #6cb9ee;
 }
 
+.badge-referral {
+  background: #fff;
+  border: 1.5px solid #4296cd;
+  color: #4296cd;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
 .btn-group {
   display: flex;
   flex-direction: column;
